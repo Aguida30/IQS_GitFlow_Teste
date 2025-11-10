@@ -2,3 +2,6 @@
 
 
 Ambiente configurado com develop
+
+
+Versão v1.0 em preparação
